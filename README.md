@@ -16,4 +16,4 @@ Python Programming Language was used to create this Program
 
 # Useful Websites
 
-* [Web Site Name](https://www.pythoncheatsheet.org/cheatsheet/basics)
+* [Python Cheat Sheet](https://www.pythoncheatsheet.org/cheatsheet/basics)
